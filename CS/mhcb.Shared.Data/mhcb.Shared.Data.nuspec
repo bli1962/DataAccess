@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0</version>
+    <title>ADO.Net Wrap</title>
+    <authors>Ben Li</authors>
+    <owners>Mizuho Bank Sydney</owners>
+    <licenseUrl>http://mizuho.com.au</licenseUrl>
+    <projectUrl>http://mizuho.com.au</projectUrl>
+    <iconUrl>http://mizuho.com.au</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>mhcb.shared.data</description>
+    <releaseNotes>In-house Package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Mizuho Sydney</tags>	
+  </metadata>
+</package>
